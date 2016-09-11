@@ -1,5 +1,5 @@
 {
-	"dbURI": "mongodb://chacha:123456@ds027896.mlab.com:27896/chacha",
+	"dbURI": "mongodb://chacha:123456@ds027896.mlab.com:29466/chacha",
 	"sessionSecret": "<RandomString>",
 	"facebook": {
 		"clientID": "298416130537564",
