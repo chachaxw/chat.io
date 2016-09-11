@@ -1,15 +1,15 @@
 {
-	"dbURI": "<MongoDBURI>",
+	"dbURI": "mongodb://chacha:123456@ds027896.mlab.com:27896/chacha",
 	"sessionSecret": "<RandomString>",
 	"facebook": {
-		"clientID": "<AppID>",
-		"clientSecret": "<AppSecret>",
+		"clientID": "298416130537564",
+		"clientSecret": "83341e92a10fb3a502e98e082aa0a176",
 		"callbackURL": "/auth/facebook/callback",
 		"profileFields": ["id", "displayName", "photos"]
 	},
 	"twitter": {
-		"consumerKey": "<ConsumerKey>",
-		"consumerSecret": "<ConsumerSecret>",
+		"consumerKey": "pzJFQVgqrTvtgldEAE80lTRQJ",
+		"consumerSecret": "pS0vwEoCDLNEYCKVfLPPXEGSXrKCeeMJomZCfa6yQIqzjcvFGM",
 		"callbackURL": "/auth/twitter/callback",
 		"profileFields": ["id", "displayName", "photos"]
 	},
